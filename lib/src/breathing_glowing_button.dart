@@ -99,6 +99,9 @@ class _BreathingGlowingButtonState extends State<BreathingGlowingButton>
     /// A simple breathing glowing button.
     /// Built using [Container] and [InkWell].
     return InkWell(
+      splashFactory: NoSplash.splashFactory,
+      splashColor: Colors.transparent,
+      highlightColor: Colors.transparent,
       child: Container(
         width: _width,
         height: _height,
