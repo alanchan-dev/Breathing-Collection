@@ -1,5 +1,6 @@
 ## [1.0.0+2]
 Hotfix: BreathingGlowingButton onTap not working
+
 Hotfix: Hiding splash effects from tapping the button
 
 ## [1.0.0+1]
