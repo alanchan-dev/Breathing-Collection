@@ -39,7 +39,7 @@ class BreathingGlowingButton extends StatefulWidget {
   /// Function to be executed onTap.
   ///
   /// Default [onTap] value: null
-  final Function? onTap;
+  final VoidCallback? onTap;
 
   BreathingGlowingButton({
     this.width,
@@ -118,7 +118,7 @@ class _BreathingGlowingButtonState extends State<BreathingGlowingButton>
           ],
         ),
       ),
-      onTap: () => _onTap,
+      onTap: () => _onTap(),
     );
   }
 }
