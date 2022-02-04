@@ -1,3 +1,6 @@
+## [1.0.0+3]
+Updated homepage and repository link
+
 ## [1.0.0+2]
 Hotfix: BreathingGlowingButton onTap not working
 

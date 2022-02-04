@@ -2,9 +2,9 @@ name: breathing_collection
 description: >-
   A collection of Flutter widgets with breathing animation.
   More widgets will be added.
-version: 1.0.0+2
-homepage: https://dogeeexd.com
-repository: https://github.com/DogeeeXD/Breathing-Collection
+version: 1.0.0+3
+homepage: https://type0n1.com
+repository: https://github.com/Type0N1/Breathing-Collection
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
