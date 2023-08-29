@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   supercharged: ^2.1.1
-  simple_animations: ^4.0.1
+  simple_animations: ^5.0.2
 
 dev_dependencies:
   flutter_test:
